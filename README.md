@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/lumen-logo.webp" alt="CreceWeb Lumen" width="160">
+</p>
+
 # CreceWeb Lumen
 
 **A lightweight WordPress ecosystem for freelancers, agencies and site builders who want a fast, flexible and consistent way to build professional websites.**
