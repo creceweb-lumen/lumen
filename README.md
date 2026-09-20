@@ -166,6 +166,11 @@ The public source repositories for Theme and Lite are maintained separately so e
 
 [CreceWeb Lumen Lite](https://wordpress.org/plugins/creceweb-lumen-lite/)
 
+### Source repositories
+
+[Lumen Theme source](https://github.com/creceweb-lumen/lumen-theme)
+[Lumen Lite source](https://github.com/creceweb-lumen/lumen-lite)
+  
 ### Developer
 
 [CreceWeb](https://creceweb.com.ar/)
@@ -186,7 +191,10 @@ This repository serves as the central overview of the Lumen ecosystem.
 
 ## Feedback
 
-If you find a bug in Lumen Theme or Lumen Lite, please report it in the corresponding source repository once available.
+If you find a bug in Lumen Theme or Lumen Lite, please report it in the corresponding repository:
+
+- [Lumen Theme issues](https://github.com/creceweb-lumen/lumen-theme/issues)
+- [Lumen Lite issues](https://github.com/creceweb-lumen/lumen-lite/issues)
 
 General information, documentation and product details are available on the official Lumen website.
 
